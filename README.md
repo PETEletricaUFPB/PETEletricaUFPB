@@ -24,15 +24,22 @@ Com pouco tempo de existência, o grupo já protagonizou inúmeros eventos de mu
   </p>
 </details>
 
-## Acesse abaixo as revistas desde sua 1º edição!
+## Acesse as revistas do Grupo PET-Elétrica UFPB desde sua 1º edição!
 
 | 4º Edição/2019 | 3º Edição/2018 | 2º Edição/2017 | 1º Edição/2016 |
 | :---: | :---: | :---: | :---: |
----- | ----  | ----  | ----  |
+[<img src="https://user-images.githubusercontent.com/77749126/105650485-a320bd00-5e92-11eb-9937-8f42b0501810.png" > <br> <sub>Revista PET-Elétrica 2019</sub>](https://issuu.com/peteletrica/docs/revista_2020_-_vers_o_15) | [<img src="https://user-images.githubusercontent.com/77749126/105650484-a2882680-5e92-11eb-885a-82177b9a7984.png" > <br> <sub>Revista PET-Elétrica 2018</sub>](https://issuu.com/peteletrica/docs/revista_pet-el_trica_2018) | [<img src="https://user-images.githubusercontent.com/77749126/105650483-a2882680-5e92-11eb-8c4d-29a1e999cff8.png" > <br> <sub>Revista PET-Elétrica 2017</sub>](https://issuu.com/peteletrica/docs/revista_pet_2017)  | [<img src="https://user-images.githubusercontent.com/77749126/105650482-a156f980-5e92-11eb-9e5e-38382c706dfe.png" > <br> <sub>Revista PET-Elétrica 2016</sub>](https://issuu.com/peteletrica/docs/revistapeteletrica)   |
 
-## Acesse o nosso site clicando [aqui](http://www.cear.ufpb.br/pet).
+<!--
+![revista_2016](https://user-images.githubusercontent.com/77749126/105650482-a156f980-5e92-11eb-9e5e-38382c706dfe.png)
+![revista_2017](https://user-images.githubusercontent.com/77749126/105650483-a2882680-5e92-11eb-8c4d-29a1e999cff8.png)
+![revista_2018](https://user-images.githubusercontent.com/77749126/105650484-a2882680-5e92-11eb-885a-82177b9a7984.png)
+![revista_2019](https://user-images.githubusercontent.com/77749126/105650485-a320bd00-5e92-11eb-9937-8f42b0501810.png)
+-->
 
-## Conheça os atuais integrantes do Grupo PET-Elétrica clicando [aqui](http://www.cear.ufpb.br/pet-pessoas).
+### Acesse o nosso site clicando [aqui](http://www.cear.ufpb.br/pet).
+
+### Conheça os atuais integrantes do Grupo PET-Elétrica clicando [aqui](http://www.cear.ufpb.br/pet-pessoas).
 
 <!--
 <div style="margin-left:30px">
