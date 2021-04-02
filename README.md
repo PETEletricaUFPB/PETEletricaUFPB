@@ -6,13 +6,25 @@
 
 O grupo PET – Elétrica UFPB foi criado em 2013, pelos professores Nady Rocha e Euler Cássio Tavares de Macedo, e desde então vem alcançando inúmeros progressos e reconhecimento não só dentro como também fora da instituição em que foi criado.
 
-O PET – Elétrica reúne alunos de graduação do curso de Engenharia Elétrica da Universidade Federal da Paraíba em atividades de Ensino, Pesquisa e Extensão, proporcionando-lhes a realização de atividades que favoreçam suas formações acadêmicas. Atualmente é composto por 13 integrantes, sendo 12 alunos bolsistas e 1 aluno voluntário, e pelos tutotores Euler Cássio Tavares de Macedo (Tutor) e Nady Rocha (Co-tutor).
+O PET – Elétrica reúne alunos de graduação do curso de Engenharia Elétrica da Universidade Federal da Paraíba em atividades de Ensino, Pesquisa e Extensão, proporcionando-lhes a realização de atividades que favoreçam suas formações acadêmicas. Atualmente é composto por 12 integrantes bolsistas e pelos tutotores Euler Cássio Tavares de Macedo (Tutor) e Nady Rocha (Co-tutor).
 
 Com pouco tempo de existência, o grupo já protagonizou inúmeros eventos de muita importância para a UFPB e toda comunidade acadêmica. Além de ser contemplado por várias premiações em eventos dentro e fora da instituição.
 
+<h2 align="center">Missão</h2>
+
+Desenvolver e aprimorar atividades acadêmicas e ex tracurriculares a fim de contribuir para uma formação de excelência garantindo a indissociabilidade entre ensino, pesquisa e ex tensão, sem abdicar das responsabilidades social, ambiental, política e econômica.
+
+<h2 align="center">Visão</h2>
+
+Ser referência na construção de conhecimento e educação para a graduação de Engenharia Elétrica.
+
+<h2 align="center">Valores</h2>
+
+Moral e ética; liderança; democracia; proatividade; inovação; trabalho em equipe; crença no conhecimento como ferramenta transformadora.
+
 <details>
   <summary>
-    <span>Mais informações.</span>
+    <span>O que é o PET?</span>
   </summary>
   <p>
     O PET - Programa de Educação Tutorial foi criado em 1979 pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - CAPES com o nome Programa Especial de Treinamento – PET que atualmente está sob responsabilidade da Diretoria de Políticas e Programas de Graduação (DIPES/SESu), sendo acompanhado pela Coordenação Geral de Relações Estudantis (CGRE) e é identificado como Programa de Educação Tutorial.<br>
@@ -36,9 +48,15 @@ Com pouco tempo de existência, o grupo já protagonizou inúmeros eventos de mu
 ![revista_2019](https://user-images.githubusercontent.com/77749126/105650485-a320bd00-5e92-11eb-9937-8f42b0501810.png)
 -->
 
-### Acesse o nosso site clicando [aqui](http://www.cear.ufpb.br/pet).
+<!--### Acesse o nosso site clicando [aqui](http://www.cear.ufpb.br/pet).-->
 
 ### Conheça os atuais integrantes do Grupo PET-Elétrica clicando [aqui](http://www.cear.ufpb.br/pet-pessoas).
+
+[Site Oficial](https://bit.ly/sitepetelet)  
+[Perfil no Instagram](https://bit.ly/igpetelet)  
+[Perfil no Facebook](https://www.facebook.com/peteletricaufpb/)  
+[Perfil no GitHub](https://github.com/PETEletricaUFPB)  
+[Canal no YouTube](https://bit.ly/youtubepetelet)  
 
 <!--
 <div style="margin-left:30px">
