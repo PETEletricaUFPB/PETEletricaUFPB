@@ -48,15 +48,15 @@ Moral e ética; liderança; democracia; proatividade; inovação; trabalho em eq
 ![revista_2019](https://user-images.githubusercontent.com/77749126/105650485-a320bd00-5e92-11eb-9937-8f42b0501810.png)
 -->
 
-<!--### Acesse o nosso site clicando [aqui](http://www.cear.ufpb.br/pet).-->
+<!--### Acesse o nosso site clicando [aqui](http://www.cear.ufpb.br/peteletrica).-->
 
-### Conheça os atuais integrantes do Grupo PET-Elétrica clicando [aqui](http://www.cear.ufpb.br/pet-pessoas).
+### Conheça os atuais integrantes do Grupo PET-Elétrica clicando [aqui](http://www.cear.ufpb.br/peteletrica/contents/menu/institucional/integrantes).
 
-[Site Oficial](https://bit.ly/sitepetelet)  
-[Perfil no Instagram](https://bit.ly/igpetelet)  
+[Site Oficial](http://www.cear.ufpb.br/peteletrica)  
+[Perfil no Instagram](https://www.instagram.com/peteletrica/)  
 [Perfil no Facebook](https://www.facebook.com/peteletricaufpb/)  
 [Perfil no GitHub](https://github.com/PETEletricaUFPB)  
-[Canal no YouTube](https://bit.ly/youtubepetelet)  
+[Canal no YouTube](https://www.youtube.com/c/PETEl%C3%A9tricaUFPBMinicursos)  
 
 <!--
 <div style="margin-left:30px">
