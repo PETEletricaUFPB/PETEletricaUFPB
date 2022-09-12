@@ -6,13 +6,13 @@
 
 O grupo PET – Elétrica UFPB foi criado em 2013, pelos professores Nady Rocha e Euler Cássio Tavares de Macedo, e desde então vem alcançando inúmeros progressos e reconhecimento não só dentro como também fora da instituição em que foi criado.
 
-O PET – Elétrica reúne alunos de graduação do curso de Engenharia Elétrica da Universidade Federal da Paraíba em atividades de Ensino, Pesquisa e Extensão, proporcionando-lhes a realização de atividades que favoreçam suas formações acadêmicas. Atualmente é composto por 12 integrantes bolsistas e pelos tutotores Euler Cássio Tavares de Macedo (Tutor) e Nady Rocha (Co-tutor).
+O PET – Elétrica reúne alunos de graduação do curso de Engenharia Elétrica da Universidade Federal da Paraíba em atividades de Ensino, Pesquisa e Extensão, proporcionando-lhes a realização de atividades que favoreçam suas formações acadêmicas.
 
 Com pouco tempo de existência, o grupo já protagonizou inúmeros eventos de muita importância para a UFPB e toda comunidade acadêmica. Além de ser contemplado por várias premiações em eventos dentro e fora da instituição.
 
 <h2 align="center">Missão</h2>
 
-Desenvolver e aprimorar atividades acadêmicas e ex tracurriculares a fim de contribuir para uma formação de excelência garantindo a indissociabilidade entre ensino, pesquisa e ex tensão, sem abdicar das responsabilidades social, ambiental, política e econômica.
+Desenvolver e aprimorar atividades acadêmicas e extracurriculares a fim de contribuir para uma formação de excelência garantindo a indissociabilidade entre ensino, pesquisa e extensão, sem abdicar das responsabilidades social, ambiental, política e econômica.
 
 <h2 align="center">Visão</h2>
 
